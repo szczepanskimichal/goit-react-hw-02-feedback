@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/static/js/main.07d3183d.js",
+    "main.css": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/static/css/main.d5c58ab2.css",
+    "main.js": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/static/js/main.9642b247.js",
     "index.html": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/index.html",
-    "main.7acaea2f.css.map": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/static/js/main.07d3183d.js.map"
+    "main.d5c58ab2.css.map": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/static/css/main.d5c58ab2.css.map",
+    "main.9642b247.js.map": "/szczepanskimichal.github.io/goit-react-hw-02-feedback/static/js/main.9642b247.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.d5c58ab2.css",
+    "static/js/main.9642b247.js"
   ]
 }
